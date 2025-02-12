@@ -12,5 +12,9 @@ int main(){
     {
         printf("False");
     }
+    if(a==b);
+    {
+        printf("False");
+    }
     return 0;
 }
