@@ -1,9 +1,9 @@
-// Your code here...
-#include<stdio.h>
-int main (){
+#include <stdio.h>
+
+int main() {
     int a;
-    printf("%d",a);
-    scanf("%d",&a);
-    printf("%d\n",~a);
+    printf("Enter an integer: ");
+    scanf("%d", &a);
+    printf("Output: %d\n", ~a);
     return 0;
 }
