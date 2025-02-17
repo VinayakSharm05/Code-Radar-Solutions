@@ -20,6 +20,7 @@ int main(){
         break;
         default:
         printf("erro");
+        break;
     }
 
     return 0;
