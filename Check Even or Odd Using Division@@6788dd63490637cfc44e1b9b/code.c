@@ -1,15 +1,12 @@
-#include <stdio.h>
-
-int oddoreven(){
-    int number;
-    scanf("%d",&number);
-    if (number % 2 == 0){
+// Your code here...
+#include<stdio.h>
+int main(){
+    int a;
+    if (a % 2 == 0){
         printf("Even");
     }
     else{
-        printf("Odd");
+        printf("Even");
     }
-}
-int main(){
-    oddoreven();
+    return 0;
 }
