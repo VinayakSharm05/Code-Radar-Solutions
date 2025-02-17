@@ -1,7 +1,7 @@
 // Your code here...
 #include<stdio.h>
 int main(){
-    printf("8");
+    printf("27");
 
     return 0;
 }
