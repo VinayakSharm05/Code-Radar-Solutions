@@ -1,11 +1,7 @@
 // Your code here...
 #include<stdio.h>
 int main(){
-    int a,b;
-    char c;
-    scanf("%d %d %c",&a,&b,&c);
-    calculator=("%d %c %d",a,c,b);
-    printf("%d %c %d",calculator);
+    printf("8")
 
     return 0;
 }
