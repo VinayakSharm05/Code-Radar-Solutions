@@ -8,12 +8,6 @@ int main(){
     }
     
     
-    else if (a=2){
-        printf("30");
-    }
-    else{
-        printf("31");
-    }
     return 0;
 
 }
